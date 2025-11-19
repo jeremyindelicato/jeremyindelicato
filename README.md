@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jérémy Indelicato
 
-<!--
-**jeremyindelicato/jeremyindelicato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 Data & AI Scientist | Medtech | Road to AGI
 
-Here are some ideas to get you started:
+Currently working as **Data & AI Scientist at Stryker**, I'm a Master's student at Epitech specializing in AI & Data Science. Passionate about pushing the boundaries of artificial intelligence and its applications in healthcare technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🏥 **Current Role**: Data & AI Scientist at Stryker (Medtech)
+- 🎓 **Education**: Master's in Computer Science (AI & Data specialization) at Epitech (2023-2027)
+- 🤖 **Mission**: Contributing to the Road to AGI
+- 💡 **Expertise**: Data Engineering, AI/ML, Growth Hacking, Automation
+- 🌟 **Inspiration**: Yann LeCun
+
+## 💼 Professional Experience
+
+**Data & AI Scientist** @ Stryker (Sept 2025 - Present)
+- Working on AI solutions in the medtech industry
+
+**Data Engineer** @ GPO - Groupe Paredes Orapi (Feb - Aug 2025)
+- Developed custom fine-tuned LLMs (Hugging Face, Mistral AI, Llama)
+- Automated data collection with Python scripts
+- Clients: SNCF, NATO Army, LVMH, EDF, Airbus
+
+**Growth Hacker** @ HARTMANN GROUP (Jan - Jul 2024)
+- Led website redesign focusing on UX/UI and SEO
+- Tripled LinkedIn visibility and engagement
+- Data visualization and performance dashboards
+
+## 🛠️ Tech Stack
+
+**AI & Data Science:**
+- Python, SQL, Machine Learning
+- Hugging Face, Mistral AI, Llama
+- Big Data, Jupyter, Google Colab
+
+**Development:**
+- Web Development (Full Stack)
+- Mobile App Development
+- Automation & Web Scraping
+
+**Tools & Platforms:**
+- Power BI, Figma
+- Blender, Illustrator, Premiere Pro
+
+## 🎯 What I Do
+
+I help companies and entrepreneurs with custom digital solutions:
+- 🤖 Custom AI & LLM development
+- 🌐 Full-stack web development
+- 📊 Data engineering & automation
+- 🚀 Growth marketing & SEO optimization
+- 🔧 Web scraping & process automation
+
+## 📫 Get in Touch
+
+- 🌐 Portfolio: [www.indelicatojeremy.com](https://www.indelicatojeremy.com)
+- 💼 LinkedIn: [jeremy-indelicato](https://www.linkedin.com/in/jérémy-indelicato-1a3450290/)
+- 🤗 Hugging Face: [@taciturn999](https://huggingface.co/taciturn999)
+
+## 📜 Certifications
+
+- 📊 IBM Data Science Professional Certification (2025)
+- 🎨 Google UX Design Professional Certificate (2024)
+- 🗣️ TOEIC (2025-2027)
+
+---
+
+*"The path to AGI is paved with data, curiosity, and relentless innovation"*
