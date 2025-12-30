@@ -18,7 +18,7 @@ Currently working as **Data & AI Scientist at Stryker**, I'm a Master's student 
 - Working on AI solutions in the medtech industry
 
 **Data Engineer** @ GPO - Groupe Paredes Orapi (Feb - Aug 2025)
-- Developed custom fine-tuned LLMs (Hugging Face, Mistral AI, Llama)
+- Developed custom fine-tuned LLMs (Colab, Mistral-7B-Instruct-v0.1)
 - Automated data collection with Python scripts
 - Clients: SNCF, NATO Army, LVMH, EDF, Airbus
 
@@ -34,14 +34,6 @@ Currently working as **Data & AI Scientist at Stryker**, I'm a Master's student 
 - Hugging Face, Mistral AI, Llama
 - Big Data, Jupyter, Google Colab
 
-**Development:**
-- Web Development (Full Stack)
-- Mobile App Development
-- Automation & Web Scraping
-
-**Tools & Platforms:**
-- Power BI, Figma
-- Blender, Illustrator, Premiere Pro
 
 ## 🎯 What I Do
 
@@ -62,7 +54,7 @@ I help companies and entrepreneurs with custom digital solutions:
 
 - 📊 IBM Data Science Professional Certification (2025)
 - 🎨 Google UX Design Professional Certificate (2024)
-- 🗣️ TOEIC (2025-2027)
+- 🗣️ TOEIC (2025)
 
 ---
 
