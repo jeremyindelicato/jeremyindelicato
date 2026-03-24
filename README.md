@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Jérémy Indelicato
-
 ## 🧬 Data & AI Scientist | Medtech | Road to AGI
 
 Currently working as **Data & AI Scientist at Stryker**, I'm a Master's student at Epitech specializing in AI & Data Science. Passionate about pushing the boundaries of artificial intelligence and its applications in healthcare technology.
