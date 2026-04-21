@@ -56,4 +56,4 @@ I help companies and entrepreneurs with custom digital solutions:
 
 ---
 
-*"The path to AGI is paved with data, curiosity, and relentless innovation"*
+🇫🇷
