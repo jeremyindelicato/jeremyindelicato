@@ -1,14 +1,12 @@
-## 🧬 Data & AI Scientist | Medtech | Road to AGI
+## 🧬 Data & AI Scientist | Medtech | Healthcare
 
 Currently working as **Data & AI Scientist at Stryker**, I'm a Master's student at Epitech specializing in AI & Data Science. Passionate about pushing the boundaries of artificial intelligence and its applications in healthcare technology.
 
 ## About Me
 
 -  **Current Role**: Data & AI Scientist at Stryker (Medtech)
--  **Education**: Master's in Computer Science (AI & Data specialization) at Epitech (2023-2027)
--  **Mission**: Contributing to the Road to AGI
+-  **Education**: Master's in Computer Science (AI & Data specialization) at Epitech, INSA Lyon
 -  **Expertise**: Data Engineering, AI/ML, Growth Hacking, Automation
--  **Inspiration**: Yann LeCun
 
 ## Professional Experience
 
